@@ -78,26 +78,6 @@ I enjoy creating solutions that combine **clean user interfaces, strong backend 
 ✅ Remote Internship & Software Developer Opportunities
 ```
 
----
-
-
-
-## 🧩 Problem Solving
-
-I am actively improving my problem-solving skills through DSA practice and coding challenges. My current focus is on building a strong foundation in:
-
-* Arrays and Strings
-* Hashing
-* Two Pointers
-* Sliding Window
-* Recursion and Backtracking
-* Linked Lists
-* Stacks and Queues
-* Trees and Binary Search Trees
-* Dynamic Programming
-* Graph Algorithms
-
----
 
 ## 🎯 Career Interests
 
